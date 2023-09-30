@@ -22,6 +22,14 @@ public class Main {
         System.out.print("Patlıcan Kaç Kilo ? : ");
         buyp = sc.nextInt();
 
+
+
+        //"Tark kurt king"
+
+
+
+
+
         Total = ((Armutkg*buya) + (Elmakg*buye) + (Domateskg*buyd) + (Muzkg*buym) + (Patlicankg*buyp));
         System.out.println("Toplam Ödenecek Tutar : " + Total + " TL ");
     }
